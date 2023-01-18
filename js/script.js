@@ -40,14 +40,14 @@ $(document).ready(function () {
           }
           var percent = correct/5*100
           if (percent >69){
-            remark="EXELLENT!"
+            remark="EXCELLENT!"
           }
           if(percent >49){
             remark="FAIR!"
   
           }
           else {
-            remark="Are you really a student here?!!"
+            remark="YOU CAN TRY AGAIN!"
           };
   
         document.getElementById("correct").innerHTML = "You scored " + correct +" out of 5 questions correct."
