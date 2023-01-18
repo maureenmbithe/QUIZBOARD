@@ -47,7 +47,7 @@ $(document).ready(function () {
   
           }
           else {
-            remark="YOU CAN TRY AGAIN!"
+            remark="TRY AGAIN!"
           };
   
         document.getElementById("correct").innerHTML = "You scored " + correct +" out of 5 questions correct."
