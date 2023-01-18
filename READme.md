@@ -20,12 +20,19 @@ CSS.
 HTML.
 Javascript.
 jQuery.
-Behavior-Driven Development
-BDD is a common process in which the developer's focus begins on the behaviors that they want to see in their final application rather than thinking first about the code.
+# Behavior-Driven Development
+In order for the program to run well and to give the correct output, the code had to meet certain criteria
 
-The criteria that must be considered to determine the quiz board are: -The content that the students have been taught ie. JavaScript -Usability of the website. It should be easy for the students to use. -Multiple choice questions and the ability to generate the answers in the website.
-
-.
+The user has to select one choice from the list provided.
+For the answer to be correct the value of the label has to be five. Below is a table to describe this:
+Behavior	Output Example
+Five correct answers	100% "Good Work!! Keep It Up Smart Brain"
+Four correct answers	80% "Fair!! There is still room for improvement"
+Three correct answers	60% "This is below average but still not bad"
+Two correct answers	40% "Poor results!! Read extensively."
+one correct answer	20% "Are you really a student here...
+No correct answer	0% " Did you study for the test? "
+enter null value	NaN% "Please answer all questions"
 
 # Support and contact details
 Incase of any questions or queries kindly contact me on maureenmbithe6@gmail.com
