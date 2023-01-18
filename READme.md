@@ -10,6 +10,8 @@ Quiz board is a website that offers multiple choice questions to students. Stude
 # Setup/Installation Requirements
 Copy the URL (either select the text and copy it manually, or click on the clipboard button next to the URL). Clone the repository using the git clone command in the terminal. The terminal will print some feedback that it has successfully cloned the repository.
 
+# Live Link
+https://maureenmbithe.github.io/QUIZBOARD/
 
 # Technologies Used
 This project was created using:
